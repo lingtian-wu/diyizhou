@@ -1,1 +1,1 @@
-include ':app', ':wushuai20200218', ':xlistview_library', ':lianxi_01'
+include ':app', ':wushuai20200218', ':xlistview_library', ':lianxi_01', ':lianxiti_01', ':rikao01'
